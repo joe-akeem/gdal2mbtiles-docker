@@ -2,7 +2,7 @@
 
 Run [gdal2mbtiles](https://github.com/ecometrica/gdal2mbtiles) in [Docker](https://www.docker.com/).
 
-The Docker image can be found at DockerHub.
+The Docker image can be found at [DockerHub](https://hub.docker.com/repository/docker/joeakeem/gdal2mbtiles).
 
 For instructions how to use gdal2mbtiles run:
 
